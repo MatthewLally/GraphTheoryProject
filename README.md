@@ -30,5 +30,8 @@ Some particular features make Neo4j very popular among users, developers, and DB
 Cypher is a declarative graph query language that allows for expressive and efficient querying and updating of the graph store. Cypher is a relatively simple but still very powerful language. Very complicated database queries can easily be expressed through Cypher.
 Cypher is inspired by SQL , it allows us to state what we want to select, insert, update or delete from our graph data without requiring us to describe exactly how to do it.
 
+Neo4j and and Cypher is essentially the equvililant to MySQL and SQL. The main difference being that MySQL is a relational database management system and SQL (Structured Query Language) is MySQL's supporting language.
+
+
 
 
